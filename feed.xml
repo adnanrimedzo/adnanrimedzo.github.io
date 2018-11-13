@@ -3,7 +3,7 @@
     <title>Adnanrimedzo</title>
     <link href="https://adnanrimedzo.github.io/feed.xml" rel="self" />
     <link href="https://adnanrimedzo.github.io" />
-    <updated>2018-11-13T17:01:32+03:00</updated>
+    <updated>2018-11-13T17:03:51+03:00</updated>
     <author>
         <name>Adnan Ozdemir</name>
     </author>
@@ -17,18 +17,18 @@
         <link href="https://adnanrimedzo.github.io/zookeeper.html"/>
         <id>https://adnanrimedzo.github.io/zookeeper.html</id>
 
-        <updated>2018-11-13T17:01:25+03:00</updated>
+        <updated>2018-11-13T17:03:18+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://adnanrimedzo.github.io/media/posts/1/" alt="" />
-                    Usefull Commands &lt;code&gt;var = 13&lt;/code&gt; 
+                    Usefull Commands var = 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://adnanrimedzo.github.io/media/posts/1/" alt="" />
                 <p>Usefull Commands</p>
-<p>&lt;code&gt;var = 13&lt;/code&gt; </p>
+<p><code>var = </code></p>
             ]]>
         </content>
     </entry>

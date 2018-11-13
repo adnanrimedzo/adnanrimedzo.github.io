@@ -13,8 +13,8 @@
             "id": "https://adnanrimedzo.github.io/zookeeper.html",
             "url": "https://adnanrimedzo.github.io/zookeeper.html",
             "title": "ZooKeeper",
-            "summary": "Usefull Commands &lt;code&gt;var = 13&lt;/code&gt; ",
-            "content_html": "<p>Usefull Commands</p>\n<p>&lt;code&gt;var = 13&lt;/code&gt; </p>",
+            "summary": "Usefull Commands var = ",
+            "content_html": "<p>Usefull Commands</p>\n<p><code>var = </code></p>",
             "image": "https://adnanrimedzo.github.io/media/posts/1/",
             "author": {
                 "name": "Adnan Ozdemir"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-11-13T14:03:47+03:00",
-            "date_modified": "2018-11-13T17:01:25+03:00"
+            "date_modified": "2018-11-13T17:03:18+03:00"
         }
     ]
 }
