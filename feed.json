@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ZERO",
     "description": "",
-    "home_page_url": "https://github.com/adnanrimedzo",
-    "feed_url": "https://github.com/adnanrimedzo/feed.json",
+    "home_page_url": "https://adnanrimedzo.github.io",
+    "feed_url": "https://adnanrimedzo.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Adnan Ozdemir"
     },
     "items": [
         {
-            "id": "https://github.com/adnanrimedzo/my-first-post.html",
-            "url": "https://github.com/adnanrimedzo/my-first-post.html",
+            "id": "https://adnanrimedzo.github.io/my-first-post.html",
+            "url": "https://adnanrimedzo.github.io/my-first-post.html",
             "title": "My First Post",
             "summary": "My first Post Content",
             "content_html": "My first Post Content",
-            "image": "https://github.com/adnanrimedzo/media/posts/1/den.png",
+            "image": "https://adnanrimedzo.github.io/media/posts/1/den.png",
             "author": {
                 "name": "Adnan Ozdemir"
             },
