@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Adnanrimedzo</title>
-    <link href="https://adnanrimedzo.github.io/feed.xml" rel="self" />
-    <link href="https://adnanrimedzo.github.io" />
-    <updated>2018-11-13T17:53:57+03:00</updated>
+    <title>ZERO</title>
+    <link href="https://github.com/adnanrimedzo/feed.xml" rel="self" />
+    <link href="https://github.com/adnanrimedzo" />
+    <updated>2018-11-13T21:18:26+03:00</updated>
     <author>
         <name>Adnan Ozdemir</name>
     </author>
-    <id>https://adnanrimedzo.github.io</id>
+    <id>https://github.com/adnanrimedzo</id>
 
     <entry>
-        <title>ZooKeeper</title>
+        <title>My First Post</title>
         <author>
             <name>Adnan Ozdemir</name>
         </author>
-        <link href="https://adnanrimedzo.github.io/zookeeper.html"/>
-        <id>https://adnanrimedzo.github.io/zookeeper.html</id>
+        <link href="https://github.com/adnanrimedzo/my-first-post.html"/>
+        <id>https://github.com/adnanrimedzo/my-first-post.html</id>
 
-        <updated>2018-11-13T17:03:18+03:00</updated>
+        <updated>2018-11-13T21:18:19+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://adnanrimedzo.github.io/media/posts/1/" alt="" />
-                    Usefull Commands var = 
+                        <img src="https://github.com/adnanrimedzo/media/posts/1/den.png" alt="" />
+                    My first Post Content
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://adnanrimedzo.github.io/media/posts/1/" alt="" />
-                <p>Usefull Commands</p>
-<p><code>var = </code></p>
+                    <img src="https://github.com/adnanrimedzo/media/posts/1/den.png" alt="" />
+                My first Post Content
             ]]>
         </content>
     </entry>
