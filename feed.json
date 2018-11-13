@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "deneme",
+    "title": "Adnanrimedzo",
     "description": "",
     "home_page_url": "https://adnanrimedzo.github.io",
     "feed_url": "https://adnanrimedzo.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "adnan"
+        "name": "Adnan Ozdemir"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "<p>Usefull Commands</p>\n<p> </p>",
             "image": "https://adnanrimedzo.github.io/media/posts/1/",
             "author": {
-                "name": "adnan"
+                "name": "Adnan Ozdemir"
             },
             "tags": [
             ],
