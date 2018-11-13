@@ -15,14 +15,14 @@
             "title": "My First Post",
             "summary": "My first Post Content",
             "content_html": "My first Post Content",
-            "image": "https://adnanrimedzo.github.io/media/posts/1/den.png",
+            "image": "https://adnanrimedzo.github.io/media/posts/1/starklogo.png",
             "author": {
                 "name": "Adnan Ozdemir"
             },
             "tags": [
             ],
             "date_published": "2018-11-13T21:18:19+03:00",
-            "date_modified": "2018-11-13T21:18:19+03:00"
+            "date_modified": "2018-11-13T21:28:02+03:00"
         }
     ]
 }

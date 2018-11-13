@@ -3,7 +3,7 @@
     <title>ZERO</title>
     <link href="https://adnanrimedzo.github.io/feed.xml" rel="self" />
     <link href="https://adnanrimedzo.github.io" />
-    <updated>2018-11-13T21:23:07+03:00</updated>
+    <updated>2018-11-13T21:28:18+03:00</updated>
     <author>
         <name>Adnan Ozdemir</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://adnanrimedzo.github.io/my-first-post.html"/>
         <id>https://adnanrimedzo.github.io/my-first-post.html</id>
 
-        <updated>2018-11-13T21:18:19+03:00</updated>
+        <updated>2018-11-13T21:28:02+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://adnanrimedzo.github.io/media/posts/1/den.png" alt="" />
+                        <img src="https://adnanrimedzo.github.io/media/posts/1/starklogo.png" alt="" />
                     My first Post Content
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://adnanrimedzo.github.io/media/posts/1/den.png" alt="" />
+                    <img src="https://adnanrimedzo.github.io/media/posts/1/starklogo.png" alt="" />
                 My first Post Content
             ]]>
         </content>
