@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "deneme",
+    "description": "",
+    "home_page_url": "https://adnanrimedzo.github.io",
+    "feed_url": "https://adnanrimedzo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "adnan"
+    },
+    "items": [
+        {
+            "id": "https://adnanrimedzo.github.io/zookeeper.html",
+            "url": "https://adnanrimedzo.github.io/zookeeper.html",
+            "title": "ZooKeeper",
+            "summary": "Usefull Commands ",
+            "content_html": "<p>Usefull Commands</p>\n<p> </p>",
+            "image": "https://adnanrimedzo.github.io/media/posts/1/",
+            "author": {
+                "name": "adnan"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-13T14:03:47+03:00",
+            "date_modified": "2018-11-13T14:09:18+03:00"
+        }
+    ]
+}
